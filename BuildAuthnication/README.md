@@ -1,4 +1,4 @@
 ﻿# BuildAuthnication
 npm install  
-npm run dev  
-npm start
+Client: npm run dev  
+Server: npm start
